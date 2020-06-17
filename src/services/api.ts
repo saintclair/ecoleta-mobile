@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 const api = axios.create({
-    baseURL: 'http://SEU_IP:3333'
+    baseURL: 'https://ecoleta-server.ngrok.io:3333'
 });
 
 export default api;
