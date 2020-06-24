@@ -103,7 +103,7 @@ const Points = () => {
                 <TouchableOpacity onPress={handleNavigateBack}>
                     <Icon name="arrow-left" size={20} color="#34cb79" />
                 </TouchableOpacity>
-                <Text style={styles.title}>Bem Vindo</Text>
+                <Text style={styles.title}>Bem Vindoo</Text>
                 <Text style={styles.description}>Encontre no mapa um ponto de coleta</Text>
 
                 <View style={styles.mapContainer}>
